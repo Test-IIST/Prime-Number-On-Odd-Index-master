@@ -28,4 +28,3 @@ def test_hello():
         i+=1
         print("Test case Passed")
     print("Code is correct.All Test cases passed")
-test_hello()
